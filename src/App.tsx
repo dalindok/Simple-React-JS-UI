@@ -1,13 +1,12 @@
 import React from "react";
+import Page5 from "./pages/Page5";
 // import logo from './logo.svg';
 // import './App.css';
-import Photos from "./components/Photos";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Photos />
-      </header>
+      <Page5 />
     </div>
   );
 }
