@@ -1,5 +1,5 @@
 import './App.css';
-import Part1 from "./components/page4/Part1";
+import Part1 from "./components/page3/Part1";
 
 function App() {
   return (
