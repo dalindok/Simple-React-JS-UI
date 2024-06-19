@@ -14,16 +14,14 @@ function Text() {
         </div>
         <div className="pt-7">
           <p className="text-base w-80 text-justify equal-lines">
-            I have worked with global brands like Anissa & Tam Co., Mintmade Fashion,
-            and Tully and Drive.
+            I have worked with global brands like Anissa & Tam Co., Mintmade
+            Fashion, and Tully and Drive.
           </p>
         </div>
       </div>
-      <FaStarOfLife className="text-amber-600 text-4xl mt-28" />
+      <FaStarOfLife className="text-amber-600 text-4xl mt-20" />
     </div>
   );
 }
 
 export default Text;
-
-
