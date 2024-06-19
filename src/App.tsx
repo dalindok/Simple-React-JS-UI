@@ -1,12 +1,10 @@
-import React from "react";
 import Page5 from "./pages/Page5";
-// import logo from './logo.svg';
-// import './App.css';
-
+import Page6 from "./pages/Page6";
 function App() {
   return (
-    <div className="App">
+    <div>
       <Page5 />
+      <Page6 />
     </div>
   );
 }
