@@ -12,7 +12,7 @@ function Part1() {
                         <img src={image03} alt="Picture03"className="pt-5"/>
                 </div>
             </div>
-                <div className='felx flex-col text-black pt-24 pr-60  text-start'>
+                <div className='felx flex-col text-black pt-24 pr-60 text-start'>
                     <p>Featured</p>
                     <p className='font-bold'>Work</p>
                     <div className='text-sm'>
