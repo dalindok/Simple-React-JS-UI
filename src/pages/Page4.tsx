@@ -10,7 +10,7 @@ function Page4() {
                 <p className='text-3xl'>professional."</p>
                 <p className='text-xs pt-4'>- Shiloh Carson, Client</p>
             </div>
-            <img src={image01} alt="page4" className='h-screen w-full'/>
+            <img src={image01} alt="page4" className='h-screen w-full object-cover'/>
         </div>
     );
 }

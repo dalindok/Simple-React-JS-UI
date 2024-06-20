@@ -11,7 +11,6 @@ function Photos() {
           <img
             src={First}
             alt="04"
-            className=""
             style={{ width: "100%", height: "100%", objectFit: "cover" }}
           />
         </div>
@@ -20,7 +19,6 @@ function Photos() {
           <img
             src={Second}
             alt="05"
-            className=""
             style={{ width: "100%", height: "94%", objectFit: "cover" }}
           />
         </div>

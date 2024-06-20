@@ -7,13 +7,13 @@ function Text() {
         <p className="text-4xl font-normal">Artist</p>
         <p className="text-4xl font-bold">Biography</p>
         <div className="pt-8">
-          <p className="text-base w-80 text-justify equal-lines">
+          <p className="text-base w-80  equal-lines">
             I use my camera to tell stories. I have been doing this
             professionally for ten years and I have no plans of stopping.
           </p>
         </div>
         <div className="pt-7">
-          <p className="text-base w-80 text-justify equal-lines">
+          <p className="text-base w-80 equal-lines">
             I have worked with global brands like Anissa & Tam Co., Mintmade
             Fashion, and Tully and Drive.
           </p>
