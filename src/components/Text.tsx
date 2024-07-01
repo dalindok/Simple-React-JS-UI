@@ -2,7 +2,7 @@ import React from 'react';
 
 function Text() {
     return (
-        <div className='felx flex-col text-black pt-24 pr-60 text-start'>
+        <div className='felx flex-col text-black lg:pt-24 pt-5 pl-24 pr-60 text-start'>
             <p>Featured</p>
             <p className='font-bold'>Work</p>
                 <div className='text-sm'>

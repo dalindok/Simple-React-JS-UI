@@ -4,7 +4,7 @@ import Text from "../components/Text";
 
 function Part1() {
     return (
-        <div className='flex flex-row justify-between h-screen w-screen'>
+        <div className='flex lg:flex-row flex-col justify-between h-screen w-screen'>
                <Photo/>    
                <Text/> 
         </div>
