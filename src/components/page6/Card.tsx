@@ -2,8 +2,8 @@ import React from "react";
 
 function Card() {
   return (
-    <div className="w-1/3 bg-white absolute inset-y-10 right-20 pt-36">
-      <div className="flex flex-col pl-20">
+    <div className="sm:w-1/3 w-[400px] bg-white absolute sm:inset-y-10 inset-y-5 sm:right-20 pt-36">
+      <div className="flex flex-col pl-20 ">
         <p className="text-4xl font-semibold">Get in</p>
         <p className="text-4xl font-bold">Touch</p>
         <div className="py-2">
